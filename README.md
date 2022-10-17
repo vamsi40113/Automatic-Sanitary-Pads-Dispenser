@@ -1,4 +1,5 @@
 # Automatic-Sanitary-Pads-Dispenser
+<b>In this proect contrubuted members are @Charan-317(Chevuri Charan Teja), Gogu kalyan, Pulivarthi Purneshwara  Rao</b><br>
 The user will show the College ID Card and the sanitary napkin to the user should be given automatically. No more embarrassment of asking for napkin from institution authorities.
 
 <b>Why do we want to solve ?</b> <br>
@@ -34,7 +35,7 @@ Ultra Sonic Sensor<br>
 ![image](https://user-images.githubusercontent.com/81632017/196108180-034ead75-6008-453d-a7d6-78c82bdd2f46.png)<br>
 <b>User friendly and simple to operate.</b><br>
 
-In this proect contrubuted members are Chevuri Charan Teja, Gogu kalyan, Purneshwar Rao<br>
+
 
 
 
