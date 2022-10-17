@@ -32,11 +32,9 @@ Ultra Sonic Sensor<br>
 <b>Output</b><br>
 ![image](https://user-images.githubusercontent.com/81632017/196108153-e9411869-0874-440c-9be5-3b65fe99c627.png)
 ![image](https://user-images.githubusercontent.com/81632017/196108180-034ead75-6008-453d-a7d6-78c82bdd2f46.png)<br>
-<b>User friendly and simple to operate.</b>
+<b>User friendly and simple to operate.</b><br>
 
-
-
-
+In this proect contrubuted members are Chevuri Charan Teja, Gogu kalyan, Purneshwar Rao<br>
 
 
 
