@@ -1,5 +1,5 @@
 # Automatic-Sanitary-Pads-Dispenser
-<b>In this proect contrubuted members are @Charan-317(Chevuri Charan Teja), Gogu kalyan, Pulivarthi Purneshwara  Rao</b><br>
+<b>In this project contributed members are @Charan-317(Chevuri Charan Teja), Gogu kalyan, Pulivarthi Purneshwara  Rao</b><br>
 The user will show the College ID Card and the sanitary napkin to the user should be given automatically. No more embarrassment of asking for napkin from institution authorities.
 
 <b>Why do we want to solve ?</b> <br>
