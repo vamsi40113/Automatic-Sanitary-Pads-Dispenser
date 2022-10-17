@@ -35,6 +35,10 @@ Ultra Sonic Sensor<br>
 ![image](https://user-images.githubusercontent.com/81632017/196108180-034ead75-6008-453d-a7d6-78c82bdd2f46.png)<br>
 <b>User friendly and simple to operate.</b><br>
 
+<b> Explanation  video link </b><br>
+
+<a href="https://drive.google.com/file/d/1NK0pXaUOZEIX8qlLsMKsH4NGHbRLdfQO/view?usp=sharing"><b>Click Me:)</b></a> 
+
 
 
 
